@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build artifacts
+*.zip
+temp-key-*.json
+
+# Secrets - NEVER COMMIT
+config.ps1
+*.apikey
+.env
+*.pem
+*.key
+
+# AWS
+.aws/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
