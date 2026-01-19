@@ -1,4 +1,4 @@
-# Serverless E-Commerce Order Processing System
+# Serverless ecommerce order processing system
 
 [![AWS](https://img.shields.io/badge/AWS-Serverless-orange?logo=amazon-aws)](https://aws.amazon.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=node.js)](https://nodejs.org/)
